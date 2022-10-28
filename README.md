@@ -1,1 +1,1 @@
-## A Burger Ordering React App
+## A Burger Ordering React App (MyBurger)
