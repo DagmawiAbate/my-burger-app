@@ -56,7 +56,6 @@
 }
 
 .Seeds2 {
-  content: "";
   width: 10%;
   height: 15%;
   position: absolute;
@@ -65,7 +64,7 @@
   top: 50%;
   border-radius: 40%;
   transform: rotate(10deg);
-  box-shadow: inset -3p 0 #c9c9c9;
+  box-shadow: inset -3px 0 #c9c9c9;
 }
 
 .Seeds2:before {
@@ -81,11 +80,12 @@
   box-shadow: inset 1px 3px #c9c9c9;
 }
 
+
 .Meat {
   width: 80%;
   height: 8%;
   background: linear-gradient(#7f3608, #702e05);
-  margin:2% auto;
+  margin: 2% auto;
   border-radius: 15px;
 }
 
@@ -109,5 +109,5 @@
   width: 80%;
   height: 3%;
   background: linear-gradient(#bf3813, #c45e38);
-  margin:2% auto;
+  margin: 2% auto;
 }
